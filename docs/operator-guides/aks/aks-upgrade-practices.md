@@ -220,8 +220,8 @@ The following output shows node image versions.
 ```output
 Name       NodeImageVersion
 ---------  ---------------------------------------------
-systempool  AKSUbuntu-2204gen2containerd-202601.13.0
-usernodepool  AKSUbuntu-2204gen2arm64containerd-202601.13.0
+systempool  AKSUbuntu-2404gen2containerd-202604.07.0
+usernodepool  AKSUbuntu-2404gen2arm64containerd-202604.07.0
 ```
 
 Use the [az aks nodepool get-upgrades](/cli/azure/aks/nodepool#az-aks-nodepool-get-upgrades) command to determine the latest available node image version for a specific node pool.
