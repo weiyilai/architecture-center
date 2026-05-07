@@ -238,8 +238,8 @@ The following output shows the latest available node image versions for the node
 ```output
 Name    NodeImageVersion
 ------  -------------------------------------
-system  AKSAzureLinux-V3gen2-202601.13.0
-user    AKSAzureLinux-V3gen2arm64-202601.13.0
+system  AKSAzureLinux-V3gen2-202604.07.0
+user    AKSAzureLinux-V3gen2arm64-202604.07.0
 ```
 
 ## Cluster upgrades
