@@ -2,7 +2,7 @@
 metadata:
   title: SAP HANA for Linux VMs in Scale-up Systems
   description: Proven practices for running SAP HANA in a high-availability, scale-up environment that supports disaster recovery on Azure.
-  author: robiro
+  author: msftrobiro
   ms.author: robiro
   ms.date: 05/07/2026
   ms.topic: reference-architecture
